@@ -3,7 +3,7 @@
   "domain_v2": "https://api.promoscard.org",
   "notice": {
     "title": "系统公告",
-    "content": "这里是正文，可多行说明。",
+    "content": "",
     "id": "20250301-a",
     "force": true
   }
