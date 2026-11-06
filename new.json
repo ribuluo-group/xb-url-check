@@ -1,6 +1,6 @@
 {
-  "domain": "https://api.promoscard.org",
-  "domain_v2": "https://api.promoscard.org",
+  "domain": "https://api.promoscard.com",
+  "domain_v2": "https://api.promoscard.com",
   "notice": {
     "title": "系统公告",
     "content": "",
